@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 **Master's in Big Data Analytics, aspiring data professional passionate about leveraging data to drive insights and innovation. Actively seeking opportunities to work on impactful data projects and contribute to the field.**
 
-[Email](mailto:ravichandanrc@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ravichandan) | [Portfolio](https://ravichandanrc.github.io/))
+[Email](mailto:ravichandanrc@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ravichandan) | [Portfolio](https://ravichandanrc.github.io/)
 
 ## Skills
 
